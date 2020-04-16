@@ -1,4 +1,4 @@
-# SmartGridDesignIdea
+# Smart Grid Design Idea
 
 he project provides an overview of Smart Grid Technology. 
 
