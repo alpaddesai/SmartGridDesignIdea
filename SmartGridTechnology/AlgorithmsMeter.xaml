@@ -1,0 +1,17 @@
+﻿<Window x:Class="SmartGridTechnology.AlgorithmsMeter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartGridTechnology"
+        mc:Ignorable="d"
+        Title="AlgorithmsMeter" Height="648.364" Width="1101.402" MaxWidth="1101" MaxHeight="648">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="492*"/>
+            <ColumnDefinition Width="55*"/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="4,7,6.4,7.4" Source="CCS2430.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
