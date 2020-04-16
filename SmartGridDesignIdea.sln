@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGridTechnology", "SmartGridTechnology\SmartGridTechnology.csproj", "{8C059ADD-9332-41AB-B59B-B7730C48255E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGridDesignIdea", "SmartGridTechnology\SmartGridDesignIdea.csproj", "{8C059ADD-9332-41AB-B59B-B7730C48255E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
