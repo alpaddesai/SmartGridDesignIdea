@@ -11,12 +11,14 @@ Company confidential information is not displayed. All images are either custom 
 ## Smart Meter Design
 ![image](SmartMeterDesign.png)
 
+## Zigbee Radio
+![image](ZigBeeRadio.png)
+
 ## Software Design 
 ![image](SoftwareDesign.png)
 
 ## Wireless RF Instrument
 ![image](WirelessRFInstrument.png)
 
-## Zigbee Radio
-![image](ZigBeeRadio.png)
+
 
