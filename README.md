@@ -20,7 +20,7 @@ Company confidential information is not displayed. All images are either custom 
 ## Wireless RF Instrument
 ![image](WirelessRFInstrument.png)
 
-## Graduate Degree EE
+## Graduate Degree MSEE
 ![image](GraduateDegreeEE.png)
 
 Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems  and https://github.com/alpaddesai/WirelessNetworkingProducts
