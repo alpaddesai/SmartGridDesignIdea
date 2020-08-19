@@ -25,4 +25,4 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 ## Graduate Degree MSEE
 ![image](GraduateDegreeEE.png)
 
-Focused courses: https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/WirelessandMobileSystems and 
+Focused courses: https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/WirelessandMobileSystems  
