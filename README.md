@@ -22,7 +22,7 @@ Company confidential information is not displayed. All images are either custom 
 
 Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems  , https://github.com/alpaddesai/WirelessNetworkingProducts and https://github.com/alpaddesai/Microwave-Engineering
 
-## Graduate Degree MSEE
+## Graduate Degree Master of Science in Electrical Engineering
 ![image](GraduateDegreeEE.png)
 
 Focused courses: https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/WirelessandMobileSystems  
