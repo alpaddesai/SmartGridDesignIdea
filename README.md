@@ -24,7 +24,7 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 
 
 ## Architectural Design Concepts
-https://github.com/alpaddesai/EmbeddedSystemsArchitecture
+https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-
 
 ## Graduate Degree Master of Science in Electrical Engineering
 ![image](GraduateDegreeEE.png)
