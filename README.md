@@ -30,3 +30,5 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com
 ![image](GraduateDegreeEE.png)
 
 Focused courses: https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/WirelessandMobileSystems  
+
+![image](USCopyrightCertificateofRegistration.png)
