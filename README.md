@@ -26,7 +26,7 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 ## Architectural Design Concepts
 https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-
 
-## Graduate Degree Master of Science in Electrical Engineering
+## Graduate Degree Master of Science in Electrical Engineering (MSEE)
 ![image](GraduateDegreeEE.png)
 
 Focused courses: https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/WirelessandMobileSystems  
