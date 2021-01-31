@@ -30,6 +30,7 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com
 ![image](GraduateDegreeEE.png)
 
 https://nz.linkedin.com/school/l.d-college-of-engineering---ahmedabad/  |   https://www.linkedin.com/company/northeastern-university---college-of-engineering/ 
+
 Focused courses: https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/WirelessandMobileSystems  
 
 ![image](USCopyrightCertificateofRegistration.png)
