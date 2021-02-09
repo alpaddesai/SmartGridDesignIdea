@@ -20,11 +20,11 @@ Company confidential information is not displayed. All images are either custom 
 ## Wireless RF Instrument
 ![image](WirelessRFInstrument.png)
 
-Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems  , https://github.com/alpaddesai/WirelessNetworkingProducts and https://github.com/alpaddesai/Microwave-Engineering, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/PCBDesignProcess
+Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems  , https://github.com/alpaddesai/WirelessNetworkingProducts and https://github.com/alpaddesai/Microwave-Engineering,  and https://github.com/alpaddesai/PCBDesignProcess
 
 
 ## Architectural Design Concepts
-https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-
+https://github.com/alpaddesai/EmbeddedSystemsArchitecture, https://github.com/alpaddesai/HardwareEngineeringLab4- and https://github.com/alpaddesai/PowerandInfluentialSkills
 
 ## Graduate Degree Master of Science in Electrical Engineering (MSEE)
 ![image](GraduateDegreeEE.png)
