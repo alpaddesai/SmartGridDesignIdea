@@ -29,6 +29,5 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture, https://github.com/al
 ## Graduate Degree Master of Science in Electrical Engineering (MSEE)
 ![image](GraduateDegreeEE.png)
 
-Focused courses: https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/WirelessandMobileSystems  
 
 ![image](USCopyrightCertificateofRegistration.png)
