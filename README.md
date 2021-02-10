@@ -20,17 +20,18 @@ Company confidential information is not displayed. All images are either custom 
 ## Wireless RF Instrument
 ![image](WirelessRFInstrument.png)
 
-## Technical Expertise
-Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering, https://github.com/alpaddesai/ChipDesign_ASICs_Firmware_SoC  and https://github.com/alpaddesai/PCBDesignProcess
-
-## Architectural Design Concepts
-https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
+## Business Development 
+https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/ProductMarketing
 
 ## New Product Development Processes
 https://github.com/alpaddesai/NewProductDevelopmentProcesses 
 
-## Business Development 
-https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/ProductMarketing
+## Architectural Design Concepts
+https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
+
+## Technical Expertise
+Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering, https://github.com/alpaddesai/ChipDesign_ASICs_Firmware_SoC  and https://github.com/alpaddesai/PCBDesignProcess
+
 
 ## Graduate Degree Master of Science in Electrical Engineering (MSEE)
 ![image](GraduateDegreeEE.png)
