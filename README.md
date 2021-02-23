@@ -37,5 +37,3 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 ![image](GraduateDegreeEE.png)
 
 https://github.com/alpaddesai/PowerandInfluentialSkills
-
-![image](USCopyrightCertificateofRegistration.png)
