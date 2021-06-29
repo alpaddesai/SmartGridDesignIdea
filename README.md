@@ -36,4 +36,7 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 ## Graduate Degree Master of Science in Electrical Engineering (MSEE)
 ![image](GraduateDegreeEE.png)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 https://github.com/alpaddesai/PowerandInfluentialSkills
