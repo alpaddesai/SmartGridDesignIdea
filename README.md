@@ -29,7 +29,7 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses
 ## Architectural Design Concepts
 https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
 
-## Technical Expertise
+## Technical Domain Expertise
 Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering, https://github.com/alpaddesai/CustomChipDesign and https://github.com/alpaddesai/PCBDesignProcess
 
 
