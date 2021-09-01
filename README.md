@@ -30,7 +30,7 @@ https://github.com/alpaddesai/EngineeringProjectManagement
 https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
 
 ## Technical Domain Expertise
-Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering, https://github.com/alpaddesai/CustomChipDesign and https://github.com/alpaddesai/PCBDesignProcess
+Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering,https://github.com/alpaddesai/VLSI_Design and https://github.com/alpaddesai/PCBDesignProcess
 
 
 ## Graduate Degree Master of Science in Electrical Engineering (MSEE)
