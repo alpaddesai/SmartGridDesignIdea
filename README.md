@@ -24,7 +24,7 @@ Company confidential information is not displayed. All images are either custom 
 https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/ProductMarketing
 
 ## New Product Development Processes
-https://github.com/alpaddesai/NewProductDevelopmentProcesses 
+https://github.com/alpaddesai/EngineeringProjectManagement
 
 ## Architectural Design Concepts
 https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
