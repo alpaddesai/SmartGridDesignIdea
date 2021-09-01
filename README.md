@@ -27,7 +27,7 @@ https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/a
 https://github.com/alpaddesai/EngineeringProjectManagement
 
 ## Architectural Design Concepts
-https://github.com/alpaddesai/EmbeddedSystemsArchitecture and https://github.com/alpaddesai/HardwareEngineeringLab4-  
+https://github.com/alpaddesai/HardwareEngineeringLab4-  
 
 ## Technical Domain Expertise
 Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/WirelessNetworkingProducts, https://github.com/alpaddesai/Microwave-Engineering, and https://github.com/alpaddesai/PCBDesignProcess
