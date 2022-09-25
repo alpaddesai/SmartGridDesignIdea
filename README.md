@@ -26,4 +26,6 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 https://github.com/alpaddesai/PowerandInfluentialSkills
