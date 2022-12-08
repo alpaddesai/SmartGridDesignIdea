@@ -28,4 +28,4 @@ Click on the following link for details: https://github.com/alpaddesai/Wirelessa
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement2022
+Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement
