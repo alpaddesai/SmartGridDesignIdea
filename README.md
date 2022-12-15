@@ -20,12 +20,9 @@ Company confidential information is not displayed. All images are either custom 
 ## Wireless RF Instrument
 ![image](WirelessRFInstrument.png)
 
-## Technical Domain Expertise
-Click on the following link for details: https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/Microwave-Engineering, and https://github.com/alpaddesai/PCBDesignProcess and https://github.com/alpaddesai/HardwareEngineeringLab4-
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement
+Additional details reference https://github.com/alpaddesai/DesignEngineering
